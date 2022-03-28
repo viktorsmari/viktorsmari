@@ -1,5 +1,4 @@
-👋 I'm a Ruby on Rails developer, currently working for [FabLab Barcelona](https://fablabbcn.org/)
-
+👋 I'm a Ruby on Rails developer
 
 Some of the projects I am working on:
 
